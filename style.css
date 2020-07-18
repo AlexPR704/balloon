@@ -1,5 +1,9 @@
-body {
-    background: white;
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+
 }
 
 #balloon {
