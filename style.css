@@ -64,3 +64,15 @@ html, body {
     font-size: 4.5rem;
     padding: 3rem;
 }
+
+.fa-twitter {
+    color: #00aced;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-instagram {
+    color: #517fa4;
+}
