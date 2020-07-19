@@ -49,3 +49,12 @@ html, body {
     padding: 1rem;
     border-radius: 0;
 }
+
+.padding {
+    padding: 1rem;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
