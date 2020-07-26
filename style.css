@@ -10,6 +10,10 @@ html, body {
     padding: 0.8rem;
 }
 
+.bg-light {
+    background-color: rgb(253, 201, 201)!important;
+}
+
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 50px;
     font-size: 20px;
