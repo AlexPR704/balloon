@@ -1,5 +1,23 @@
-# balloon
+# Balloon
 Website created for my parent's business creating balloon arrangements.
+
+
+# Getting Started
+1. https://alexpr704.github.io/balloon/
+
+Follow the link above to visit the repository.
+Albe to see the progress that is going on for their website.
+
+
+# Built With
+HTML
+CSS
+
+# Future Developmemts
+
+# Credits
+Credits goes to the documentations I viewed over. Also working with the online community on this tutorial to make it happen.
+
 
 MIT License
 
