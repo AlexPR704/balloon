@@ -14,6 +14,7 @@ HTML
 CSS
 
 # Future Developmemts
+I want to be able to intergrate a payment option. Customers will have to login and then will be sent a invoice in which they can pay online.
 
 # Credits
 Credits goes to the documentations I viewed over. Also working with the online community on this tutorial to make it happen.
