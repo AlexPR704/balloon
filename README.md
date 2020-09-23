@@ -3,10 +3,10 @@ Website created for my parent's business creating balloon arrangements.
 
 
 # Getting Started
-1. https://alexpr704.github.io/balloon/
+1. Deployed Link: https://alexpr704.github.io/balloon/
 
 Follow the link above to visit the repository.
-Albe to see the progress that is going on for their website.
+Able to see the progress that is going on for their website.
 
 
 # Built With
